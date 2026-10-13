@@ -6,17 +6,27 @@
   "projectPath": "unity-thornvale/Game",
   "galleryRoot": "_Workspace",
   "isConcept": false,
-  "status": "development-prototype-previews-pending",
+  "status": "three-chapter-development-prototype",
   "stages": [
     {
       "id": "frontier-chapter-1",
       "title": "Chapter 1: The Hollow Path",
-      "kind": "development-campaign-reference",
+      "kind": "native-development-gameplay-capture",
       "managedBy": "frontier-workbench-v1",
-      "images": {},
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/thornvale/2026-10-13/gameplay-chapter1.png",
+          "bytes": 161801,
+          "sha256": "5ae5fc5684f2809c0d1179597a1a38d7bc856cc4445f9421a4552c13874a7ea6",
+          "width": 1440,
+          "height": 900
+        }
+      },
       "notes": [
         "Elowen follows a missing child into a wood that has forgotten the paths home.",
-        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter1, chapter 1, simulation tick 240.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
         "unity-thornvale/ContentSource/campaign.json",
@@ -27,12 +37,22 @@
     {
       "id": "frontier-chapter-2",
       "title": "Chapter 2: Roots Remember",
-      "kind": "development-campaign-reference",
+      "kind": "native-development-gameplay-capture",
       "managedBy": "frontier-workbench-v1",
-      "images": {},
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/thornvale/2026-10-13/gameplay-chapter2.png",
+          "bytes": 169833,
+          "sha256": "abe005eea50c1d1aa87343db4a37fe39815e69d5bdb8a3abced88d1996668f1b",
+          "width": 1440,
+          "height": 900
+        }
+      },
       "notes": [
         "Fen needs herbs from the old shrines. Bramble remembers why the roots turned against the village.",
-        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter2, chapter 2, simulation tick 242.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
         "unity-thornvale/ContentSource/campaign.json",
@@ -43,17 +63,211 @@
     {
       "id": "frontier-chapter-3",
       "title": "Chapter 3: Heart of the Thorns",
-      "kind": "development-campaign-reference",
+      "kind": "native-development-gameplay-capture",
       "managedBy": "frontier-workbench-v1",
-      "images": {},
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/thornvale/2026-10-13/gameplay-chapter3.png",
+          "bytes": 165382,
+          "sha256": "87e009ec8dcaf31f2fefa69e1527ef6efbeed205b54d6ad09572d3ae861ca9eb",
+          "width": 1440,
+          "height": 900
+        }
+      },
       "notes": [
         "The elder treant guards a wounded heart; saving Thornvale takes a healer as well as a blade.",
-        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter3, chapter 3, simulation tick 242.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
         "unity-thornvale/ContentSource/campaign.json",
         "unity-thornvale/Game/Assets/Frontier/Core/Chapters.cs",
         "unity-thornvale/Game/Assets/Frontier/Unity/Art/FrontierWorldView.cs"
+      ]
+    },
+    {
+      "id": "frontier-menu",
+      "title": "Native campaign menu",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/thornvale/2026-10-13/gameplay-menu.png",
+          "bytes": 131193,
+          "sha256": "35d739e376903de0992332fe2658c2e90af8e1f1a8f96e6583e8f44ec4599a3e",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind menu, chapter 1, simulation tick 0.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-thornvale/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-story",
+      "title": "Story 1",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/thornvale/2026-10-13/gameplay-story.png",
+          "bytes": 141882,
+          "sha256": "36d97020753c5bf81b54d4abb0582c8446a21a39e277d0a26a38444d26b2a631",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story, chapter 1, simulation tick 0.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-thornvale/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-victory1",
+      "title": "Chapter victory 1",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/thornvale/2026-10-13/gameplay-victory1.png",
+          "bytes": 162321,
+          "sha256": "7988756758a0dfcf0570a53fd2d728f32ca1235cf521c1a6e282a29dfee541c8",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory1, chapter 1, simulation tick 594.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-thornvale/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-story2",
+      "title": "Story 2",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/thornvale/2026-10-13/gameplay-story2.png",
+          "bytes": 150118,
+          "sha256": "2bbcb0634934658001f2f5055bdf72d789b8b985a0f6f562ceedd65b4f49a356",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story2, chapter 2, simulation tick 2.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-thornvale/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-victory2",
+      "title": "Chapter victory 2",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/thornvale/2026-10-13/gameplay-victory2.png",
+          "bytes": 165981,
+          "sha256": "8ccf3c4e7b8e323673a6fa573ab1999556eff9dbf986fffa137af27e1a46d239",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory2, chapter 2, simulation tick 678.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-thornvale/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-story3",
+      "title": "Story 3",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/thornvale/2026-10-13/gameplay-story3.png",
+          "bytes": 148274,
+          "sha256": "981406daffa28b5acfc976544331620a243600036419145a7e7351f1cb6e6361",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story3, chapter 3, simulation tick 2.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-thornvale/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-victory3",
+      "title": "Chapter victory 3",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/thornvale/2026-10-13/gameplay-victory3.png",
+          "bytes": 169514,
+          "sha256": "ee490c4c77b725285b1cd823abcb23fcce173cce111750a15a89c9c277ea823c",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory3, chapter 3, simulation tick 858.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-thornvale/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-finale",
+      "title": "Native campaign result",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/thornvale/2026-10-13/gameplay-finale.png",
+          "bytes": 139682,
+          "sha256": "b29ca069c5812e505a3221f04b23ab77a34d33dd2bb04e3881724735f6425e05",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind finale, chapter 3, simulation tick 858.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-thornvale/Game/Assets/Frontier/Unity/FrontierUI.cs"
       ]
     }
   ],
