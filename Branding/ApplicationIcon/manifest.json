@@ -1,0 +1,69 @@
+{
+  "art": {
+    "accent": "#96d184",
+    "kind": "original-vector",
+    "motif": "Thorn-wrapped forest lantern",
+    "provenance": "Repository-native SVG authored for this game; no paid source artwork.",
+    "sourceSha256": "1ce44b264bd4a2f4e8fc977f57b5f53a711125303cb22fb100e4e3a58b08fa73"
+  },
+  "assets": {
+    "icon-128.png": {
+      "bytes": 18080,
+      "sha256": "23b642122c92f35f53dd8be92bbe22fe5dcb5dd2b1816147ad035e70ea3245d9"
+    },
+    "icon-16.png": {
+      "bytes": 832,
+      "sha256": "3a7d94df9f3839fab0d9bc718c88ef4481ed6578d275c2eef715ef34a148cfc1"
+    },
+    "icon-256.png": {
+      "bytes": 48654,
+      "sha256": "a34a7baeaebdce20ad77983ab08ac3ce9b8cdcd1b3f168a3ff9ccee97333b5ab"
+    },
+    "icon-32.png": {
+      "bytes": 2344,
+      "sha256": "ec49250c62e99cfbd88354b7e609daf2ca12d9f9bf55c817e16082a0358534fd"
+    },
+    "icon-512.png": {
+      "bytes": 130226,
+      "sha256": "23ae9959ed16ea5f10dd9473088766bbf6225849ab0f083a25620d0423c469a8"
+    },
+    "icon-64.png": {
+      "bytes": 6753,
+      "sha256": "97ed9b41472ff435d0574d9aec4ca0fe9662da424667b470e9bd50fbd92bbe05"
+    },
+    "icon.bmp": {
+      "bytes": 196662,
+      "sha256": "62ce8063d0e5b752dc46b1eec71cf14148efa87700006e2be02dda4c1a3e4be3"
+    },
+    "icon.icns": {
+      "bytes": 609212,
+      "sha256": "73706a6333d84d46267f3d6cbba12968dec09ca5d5471c522dcc9fd5fa2b74cd"
+    },
+    "icon.ico": {
+      "bytes": 83483,
+      "sha256": "0fdb744f6049124d1e49f079089f8b6136407b91447e1145e1daa925449636e2"
+    },
+    "icon.png": {
+      "bytes": 256453,
+      "sha256": "fd5690881e2eab49068705c968748e6159c191232a0c14664016d72a048ee0bb"
+    },
+    "source.png": {
+      "bytes": 255218,
+      "sha256": "1ce44b264bd4a2f4e8fc977f57b5f53a711125303cb22fb100e4e3a58b08fa73"
+    },
+    "source.svg": {
+      "bytes": 1562,
+      "sha256": "fd35b6190c365f2829300f97373e5fd5dc9938745e4a2288473b32873cfd7b49"
+    }
+  },
+  "gameId": "thornvale",
+  "installs": [
+    {
+      "asset": "source.png",
+      "path": "Assets/Editor/Branding/GameAppIcon.png"
+    }
+  ],
+  "pipeline": "securelyprogramming/game-workbench/scripts/game-icons.py",
+  "schemaVersion": 1,
+  "scope": "Application icons only; store capsules and platform release certification are separate."
+}
