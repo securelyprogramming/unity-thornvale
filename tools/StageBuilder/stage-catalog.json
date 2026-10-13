@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "slug": "thornvale",
+  "title": "Thornvale",
+  "engine": "Unity",
+  "projectPath": "unity-thornvale/Game",
+  "galleryRoot": "_Workspace",
+  "isConcept": false,
+  "status": "development-prototype-previews-pending",
+  "stages": [
+    {
+      "id": "frontier-chapter-1",
+      "title": "Chapter 1: The Hollow Path",
+      "kind": "development-campaign-reference",
+      "managedBy": "frontier-workbench-v1",
+      "images": {},
+      "notes": [
+        "Elowen follows a missing child into a wood that has forgotten the paths home.",
+        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+      ],
+      "sourceEvidence": [
+        "unity-thornvale/ContentSource/campaign.json",
+        "unity-thornvale/Game/Assets/Frontier/Core/Chapters.cs",
+        "unity-thornvale/Game/Assets/Frontier/Unity/Art/FrontierWorldView.cs"
+      ]
+    },
+    {
+      "id": "frontier-chapter-2",
+      "title": "Chapter 2: Roots Remember",
+      "kind": "development-campaign-reference",
+      "managedBy": "frontier-workbench-v1",
+      "images": {},
+      "notes": [
+        "Fen needs herbs from the old shrines. Bramble remembers why the roots turned against the village.",
+        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+      ],
+      "sourceEvidence": [
+        "unity-thornvale/ContentSource/campaign.json",
+        "unity-thornvale/Game/Assets/Frontier/Core/Chapters.cs",
+        "unity-thornvale/Game/Assets/Frontier/Unity/Art/FrontierWorldView.cs"
+      ]
+    },
+    {
+      "id": "frontier-chapter-3",
+      "title": "Chapter 3: Heart of the Thorns",
+      "kind": "development-campaign-reference",
+      "managedBy": "frontier-workbench-v1",
+      "images": {},
+      "notes": [
+        "The elder treant guards a wounded heart; saving Thornvale takes a healer as well as a blade.",
+        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+      ],
+      "sourceEvidence": [
+        "unity-thornvale/ContentSource/campaign.json",
+        "unity-thornvale/Game/Assets/Frontier/Core/Chapters.cs",
+        "unity-thornvale/Game/Assets/Frontier/Unity/Art/FrontierWorldView.cs"
+      ]
+    }
+  ],
+  "runtimeBoundary": "Native captures are references to the standalone development prototype. Workbench workshop edits are separate planning drafts until a runtime adapter is implemented. Physical input, cross-machine LAN, Windows/Linux and Steam release acceptance are tracked separately.",
+  "updated": "2026-10-13"
+}

@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "thornvale",
+  "title": "Thornvale",
+  "engine": "Unity",
+  "family": "Forest RPG",
+  "projectPath": "Game",
+  "gameType": "3d-game",
+  "description": "Gather herbs for a healer, awaken forest shrines, and defeat a corrupted guardian. Three-chapter development prototype; controller, multiplayer, platform and Steam release acceptance are tracked separately.",
+  "links": {
+    "repository": "https://github.com/securelyprogramming/unity-thornvale",
+    "websiteRepository": null,
+    "website": null,
+    "jira": null
+  },
+  "builder": {
+    "openScript": null,
+    "guide": "unity-thornvale/tools/StageBuilder/README.md"
+  },
+  "catalog": "unity-thornvale/tools/StageBuilder/stage-catalog.json"
+}

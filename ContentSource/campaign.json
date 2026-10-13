@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "thornvale",
+  "title": "Thornvale",
+  "mode": "thornvale",
+  "genre": "forest-rpg",
+  "brief": "Gather healing herbs, rescue woodland residents and break the thorn curse through combat and village quests.",
+  "seed": 249,
+  "difficulty": 1,
+  "repository": "https://github.com/securelyprogramming/unity-thornvale",
+  "folder": "unity-thornvale",
+  "engine": "Unity",
+  "engineVersion": "6000.6.0f1",
+  "project": "Game",
+  "targetPlatforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "storeTarget": "Steam premium PC",
+  "players": "1–4 LAN cooperative players; local solo campaign",
+  "accent": "#74a867",
+  "setting": "forest",
+  "enemy": "wolf",
+  "cast": [
+    {
+      "name": "Elowen",
+      "role": "ranger"
+    },
+    {
+      "name": "Bramble",
+      "role": "forest keeper"
+    },
+    {
+      "name": "Fen",
+      "role": "village healer"
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Hollow Path",
+      "story": "Elowen follows a missing child into a wood that has forgotten the paths home.",
+      "layoutSeed": 249
+    },
+    {
+      "number": 2,
+      "title": "Roots Remember",
+      "story": "Fen needs herbs from the old shrines. Bramble remembers why the roots turned against the village.",
+      "layoutSeed": 422
+    },
+    {
+      "number": 3,
+      "title": "Heart of the Thorns",
+      "story": "The elder treant guards a wounded heart; saving Thornvale takes a healer as well as a blade.",
+      "layoutSeed": 595
+    }
+  ],
+  "status": "development; build, gameplay, physical controller, multi-machine LAN and Steam release acceptance tracked separately",
+  "inspiration": "Original characters, names, story and code; genre references are design inspiration only."
+}
